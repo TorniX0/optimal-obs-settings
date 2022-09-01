@@ -7,10 +7,10 @@ If you want to record at the **native resolution** of your monitor, set the reso
 ## Downscale Filter
 **Note**: the downscale filter should **only** be used if your output resolution is lower than your base resolution.
 
-**Billinear** - Fastest, but blurry if scaling</br>
-**Area** - Fast, but has decent scaling</br>
-**Bicubic** - Slow, but has good scaling</br>
-**Lanczos** - Slowest, but has the best scaling</br>
+**Billinear** => Fastest, but blurry if scaling</br>
+**Area** => Fast, but has decent scaling</br>
+**Bicubic** => Slow, but has good scaling</br>
+**Lanczos** => Slowest, but has the best scaling</br>
 
 Choose depending on your hardware.</br>
 
