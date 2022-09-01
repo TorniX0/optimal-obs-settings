@@ -51,6 +51,3 @@ The settings are the same on `HEVC` except the `Profile` which should be set to 
 <img src="https://github.com/TorniX0/optimal-obs-settings/raw/main/docs/NVIDIA_REC2.PNG"> 
 
 </br>
-
-## Conclusion
--
