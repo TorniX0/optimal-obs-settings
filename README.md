@@ -7,7 +7,9 @@ This is a GitHub repository made to help you squeeze some more performance and q
 If you want to rectify something that I've said, change something or add something, please open up a pull request.
 ## Output
 [NVIDIA](docs/nvidia.md) (Streaming & Recording)<br/>
-[AMD](docs/amd.md) (Recording) **(coming soon)**
+[AMD](docs/amd.md) (Streaming & Recording) **(coming soon)**<br/>
+[QuickSync](docs/amd.md) (Streaming & Recording) **(coming soon)**
+[x264](docs/amd.md) (Streaming & Recording) **(coming soon)**
 ## Video
 [Settings](docs/video.md)
 ## Advanced
