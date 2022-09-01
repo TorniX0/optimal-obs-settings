@@ -1,6 +1,6 @@
 # Video Settings
 Let's start out, shall we?</br></br>
-If you want to record at the **native resolution** of your monitor, select the *first* item in the combo box.</br>
+If you want to record at the **native resolution** of your monitor, set the resolution of both boxes to your monitor's.</br>
 `Base (Canvas) Resolution` represents the "scene" resolution.</br>
 `Output (Scaled) Resolution` represents the final video resolution (must be lower or equal to the `Base Resolution`).
 
