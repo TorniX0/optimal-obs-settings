@@ -7,8 +7,8 @@ This is a GitHub Repo made to help you squeeze some more performance from OBS.<b
 If you have any issues with the settings I provided, please open up an issue.<br/>
 If you want to rectify something that I've said, change something or add something, please open up a pull request.
 ## Output
-[NVIDIA](docs/nvidia.md)<br/>
-[AMD](docs/amd.md)
+[NVIDIA](docs/nvidia.md) (Streaming & Recording)<br/>
+[AMD](docs/amd.md) (Recording)
 ## Video
 [Settings](docs/video.md)
 ## Advanced
