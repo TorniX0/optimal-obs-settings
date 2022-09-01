@@ -1,5 +1,5 @@
-# Video Settings
-Let's dig in!</br></br>
+# Advanced Settings
+Let's dig into the Advanced settings! (they might sound scary, but they aren't)</br></br>
 
 ## Process Priority
 I would just set this to something like `Above Normal` or `High`.
@@ -19,6 +19,3 @@ For an SDR recording, use `sRGB`.
 
 ## Color Range
 Set it to the `Full` value.
-
-## Conclusion
--
