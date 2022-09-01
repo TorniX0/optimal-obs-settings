@@ -2,8 +2,9 @@
 First of all, for output we're gonna use the `Advanced` Output Mode.</br>
 
 # Streaming
+[TL;DR Jump](#tldr-streaming)</br>
 In the streaming tab, select the `NVIDIA NVENC H.264` encoder.
-Change the `Rate Control` to `CBR`, set `Keyframe Interval` to `2`, change the `Preset` to `Quality` or `Max Quality` (if your hardware cannot keep up with these presets, choose the `Performance` or the `Max Performance` preset), change `Profile` to `High`, tick `Look-ahead`, tick `Psycho Visual Tuning` (PVT).
+Change the `Rate Control` to `CBR`, set `Keyframe Interval` to `2`, change the `Preset` to `Quality` or `Max Quality` (if your hardware cannot keep up with these presets, choose the `Performance` or the `Max Performance` preset), change `Profile` to `High`, tick `Look-ahead`, tick `Psycho Visual Tuning` (PVT).</br>
 
 ## Bitrate
 Bitrate is dependent on your streaming service and on your internet, here's a link to the [YouTube](https://support.google.com/youtube/answer/1722171?hl=en) and the [Twitch](https://stream.twitch.tv/encoding/) bitrate guides.
@@ -21,12 +22,13 @@ Look-ahead is a function that indicates the encoder to **analyze a few frames in
 
 Both can be beneficial, especially with streaming.
 
-## I don't care I just want the final settings (TL;DR)
+## TL;DR (Streaming)
 <img src="https://github.com/TorniX0/optimal-obs-settings/raw/main/docs/NVIDIA_STR1.PNG"> 
 
 </br>
 
 # Recording (H.264)
+[TL;DR Jump](#h264-tldr-recording)</br>
 In the recording tab, select the `NVIDIA NVENC H.264` encoder.
 Change the `Rate Control` to `CQP`, set keyframe interval to `1s`, change `Preset` to `Max Performance`, change `Profile` to `High`, leave `Look-ahead` and `Psycho Visual Tuning` unticked.
 
@@ -38,16 +40,17 @@ I would recommend the following values:</br></br>
 **High Quality** => 14-16;</br>
 **Tolerable Quality** => 17-23;</br>
 
-## I don't care I just want the final settings (TL;DR)
+# H.264 TL;DR (Recording)
 <img src="https://github.com/TorniX0/optimal-obs-settings/raw/main/docs/NVIDIA_REC1.PNG">
 
 </br>
 
 # Recording (HEVC)
+[TL;DR Jump](#hevc-tldr-recording)</br>
 In the recording tab, select the `NVIDIA NVENC HEVC` encoder.
 The settings are the same on `HEVC` except the `Profile` which should be set to `Main`.
 
-## I don't care I just want the final settings (TL;DR)
+## HEVC TL;DR (Recording)
 <img src="https://github.com/TorniX0/optimal-obs-settings/raw/main/docs/NVIDIA_REC2.PNG"> 
 
 </br>
