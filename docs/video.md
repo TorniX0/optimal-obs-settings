@@ -16,6 +16,3 @@ Choose depending on your hardware.</br>
 
 ## FPS
 Use `Common FPS Values`, and choose `60 FPS` (if your computer **cannot** handle `60 FPS`, please go ahead and use `30 FPS`).
-
-## Conclusion
--
