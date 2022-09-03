@@ -10,7 +10,7 @@ Change the `Rate Control` to `CBR`, set `Keyframe Interval` to `2s`, change the 
 Bitrate is dependent on your streaming service and on your internet, here's a link to the [YouTube](https://support.google.com/youtube/answer/1722171?hl=en) and the [Twitch](https://stream.twitch.tv/encoding/) bitrate guides.
 
 ## AMF Options
-**!!!(RX 6000 USERS ONLY)!!!** </br>
+**====(RX 6000 USERS ONLY)====** </br>
 Final options: `BReferenceEnable=1 BPicturesPattern=1 MaxConsecutiveBPictures=1 HighMotionQualityBoostEnable=1` (options are separated by spaces).
 
 ## TL;DR (Streaming)
