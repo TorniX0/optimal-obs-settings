@@ -14,3 +14,5 @@ If you want to rectify something that I've said, change something or add somethi
 [Settings](docs/video.md)
 ## Advanced
 [Settings](docs/advanced.md)
+## Encoding Overload
+If you're getting the "encoding overloaded" error, and your recording is laggy, please check out this [guide](docs/encoverload.md). **(coming soon)**
