@@ -6,7 +6,7 @@
 This is a GitHub repository made to help you squeeze some more performance and quality from OBS.<br/>
 If you want to rectify something that I've said, change something or add something, please open up a pull request.
 ## Output
-Encoder | For | Codecs
+Encoder | For | Codec(s)
 :---: | :---: | :---:
 [NVIDIA](docs/nvidia.md) | Streaming & Recording | H.264, HEVC
 [AMD](docs/amd.md) | Streaming & Recording | H.264, HEVC
