@@ -1,7 +1,7 @@
 # Advanced Settings
 
 ## Color Fornat
-Format | Hardware-accelerated | Bit-depth | Chroma Subsampling | Why
+Format | Hardware-accelerated | Bit-depth | Chroma Subsampling | Details
 :---: | :---: | :---: | :---: | :---:
 `NV12` | Yes | 8-bit | 4:2:0 | Same as `I420`, but stored differently in memory in order to provide better performance for GPU(s)
 `I420` | Yes | 8-bit | 4:2:0 | Decent color quality, easiest to process
