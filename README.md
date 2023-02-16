@@ -2,14 +2,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/OBS.svg/800px-OBS.svg.png" width=128px>
 </p>
 
-# Optimal OBS Settings (OBS 28.1.2)
+# Optimal OBS Settings (OBS 29.0.2)
 This is a GitHub repository made to help you squeeze some more performance and quality from OBS.<br/>
 If you want to rectify something that I've said, change something or add something, please open up a pull request.
 ## Output
-[NVIDIA](docs/nvidia.md) (Streaming & Recording)<br/>
-[AMD](docs/amd.md) (Streaming & Recording)<br/>
-[QuickSync](docs/quicksync.md) (Streaming & Recording) **(coming soon)**<br/>
-[x264](docs/x264.md) (Streaming & Recording)
+Encoder | For | Codecs
+:---: | :---: | :---:
+[NVIDIA](docs/nvidia.md) | Streaming & Recording | H.264, HEVC
+[AMD](docs/amd.md) | Streaming & Recording | H.264, HEVC
+[x264](docs/x264.md) | Streaming & Recording | H.264
+[QuickSync](docs/quicksync.md) | *coming soon* | H.264, HEVC
+
 ## Video
 [Settings](docs/video.md)
 ## Advanced
