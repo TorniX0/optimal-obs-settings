@@ -10,15 +10,13 @@ Format | Hardware-accelerated | Bit-depth | Chroma Subsampling | Details
 `I010` | Yes | 10-bit | 4:2:0  | Same as `I420` but more bit-depth
 `BGRA` | No | 8-bit | - | Best color quality, hardest to process (not usually supported in consumer video formats)
 
-*Choose based on your personal needs*.</br>
+*Choose based on your personal needs*.</br></br>
 
-----
 ## Color Space
 
 If you want to record your computer screen (games, desktop, etc..) use `sRGB`, otherwise use `Rec. 709`.
 
-If you want to use HDR and record your computer screen (games, desktop, etc..) use `Rec. 2100 (HLG)` (way more support than `PQ`)
+If you want to use HDR and record your computer screen (games, desktop, etc..) use `Rec. 2100 (HLG)` (way more support than `PQ`)</br></br>
 
-----
 ## Color Range
 Set it to `Full`, though if you have any issues with your editing software displaying out weird colors while the video seems fine when playing it back, use `Partial`.
