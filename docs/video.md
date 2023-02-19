@@ -11,7 +11,5 @@ Filter | Samples | Details
 `Bicubic` | 16 | Slow, but has good scaling
 `Lanczos` | 36 | Slowest, but has the best scaling
 
-*Choose depending on your needs*.</br>
-
 ## FPS
 Use `Common FPS Values`, and choose `60 FPS` (if your computer **cannot** handle `60 FPS`, find a sweet spot that works for you, or decrease the encoding quality).
