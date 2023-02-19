@@ -1,5 +1,16 @@
 # Advanced Settings
 
+## Process Priority
+Priority | Details
+:---: | :---:
+`High` | The biggest performance hit, but leaves the most headroom for OBS to use
+`Above Normal` | Bigger performance hit, but leaves more headroom for OBS to use
+`Normal` | Decent performance hit, but leaves some headroom for OBS to use
+`Below Normal` | Lower performance hit, but leaves less headroom for OBS to use
+`Idle` | The lowest performance hit, but leaves the least amount of headroom for OBS to use
+
+I recommend to use anything above or equal to `Normal`. Anything other than that *might* cause encoding lag or overload issues.</br></br>
+
 ## Color Fornat
 Format | Hardware-accelerated | Bit-depth | Chroma Subsampling | Details
 :---: | :---: | :---: | :---: | :---:
