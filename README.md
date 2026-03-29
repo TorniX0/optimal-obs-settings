@@ -24,3 +24,23 @@ Encoder | For | Codec(s)
 [Settings](docs/advanced.md)
 ## 📀 Encoding Overload
 If you're getting the "encoding overloaded" error, and your recording is laggy, please check out this [guide](docs/encoverload.md). **(coming soon)**
+
+
+## 💴 Donate
+Donate with crypto below or through [LiberaPay](https://liberapay.com/tornix/)
+
+XMR: `8BVXKKALydz1564FY4UK41DjuvGRRhN7rcfpChPqjz1dXghNLMc3tQFfsdNuLihZFBJLeLNZCoAuh2HvcnDbJvVQQiY8hQz`
+
+BTC: `bc1qzdstakhh3admcjys7z8s0lcdllqa45c6tf548f`
+
+ETH: `0xE0269b95cC0B6CC282EBf4093aD01AB9734e91f7`
+
+TRON: `THAB8vMpUsUHEfs6GXE7H8qgQNCHmJhpiy`
+
+LTC: `ltc1q4296afazp7hm0akhwmscw70ttvxy9d5pcfw7ne`
+
+DASH: `XuHx4qFsbL7wqEpr3KAN1qfNRc9zFoNLys`
+
+SOL: `CEASupa2YLWoK5muRoSUr2CAahju3jUGAcSXZ1e1Cn5x`
+
+ZEC: `t1a7FAqGsAwzuSJKo7e7idsEHnvjTwADdfS`
